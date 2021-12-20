@@ -15,7 +15,7 @@ Los algoritmos de machine learning son capaces de clasificar datos en subconjunt
 
 ## Alcance del proyecto
 
-El proyecto consiste en el diseño de una ANN, así como dos algoritmos de ML, un arbol de decisiones y una regresión logarítmica, con los que se clasificarán pinturas de dos datasets (https://www.kaggle.com/ipythonx/wikiart-gangogh-creating-art-gan, https://www.kaggle.com/ikarus777/best-artworks-of-all-time).
+El proyecto consiste en el diseño de una ANN, así como dos algoritmos de ML, un arbol de decisiones y un suport vector machine, con los que se clasificarán pinturas de dos datasets (https://www.kaggle.com/ipythonx/wikiart-gangogh-creating-art-gan, https://www.kaggle.com/ikarus777/best-artworks-of-all-time).
 
 ## Justificación
 
