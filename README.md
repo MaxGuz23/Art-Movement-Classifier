@@ -2,15 +2,15 @@
 
 ## Planteamiento del problema:
 
-Los algoritmos de machine learning son capaces de clasificar datos en subconjuntos bajo cierto patrón dado con una muy buena exactitud, sin embargo, exiten otros algoritmos con los que se puede realizar la misma tarea de clasificación como lo son las redes neuronales artificiales (ANN). ¿Algoritmos como la regresión logística, los árboles de decisión o las máquinas de vectores de soporte serán mejores que una red neuronal artificial, para la clasificación de pinturas por su estilo artíctico?
+Los algoritmos de machine learning son capaces de clasificar datos en subconjuntos bajo cierto patrón dado con una muy buena exactitud, sin embargo, exiten otros algoritmos con los que se puede realizar la misma tarea de clasificación como lo son las redes neuronales artificiales (ANN). ¿Algoritmos como la regresión logística, los árboles de decisión o las máquinas de vectores de soporte serán mejores que una red neuronal artificial, para la clasificación de pinturas por su movimiento artíctico?
 
 ## Objtivos: 
 ### Objetivo general:
-* Diseñar, entrenar y probar algoritmos de machine learning para clasificar imágenes de pinturas por su estilo.
+* Diseñar, entrenar y probar algoritmos de machine learning para clasificar imágenes de pinturas por su movimiento artístico.
 ### Objetivos específicos:
 * Obtener las imágenes de los datasets y procesarlas para aplicar los algoritmos de ML y ANN 
-* Diseñar algoritmos de ML capaces de identificar una imagen de una pintura y clasificarla con base en su estilo.
-* Diseñar una red neuronal artificial capaz de clasificar una pintura por su estilo.
+* Diseñar algoritmos de ML capaces de identificar una imagen de una pintura y clasificarla con base en su movimiento artístico.
+* Diseñar redes neuronales artificiales capaces de clasificar una pintura por su movimiento artístico.
 * Calificar el desempeño de los algoritmos de ML y la ANN.
 
 ## Alcance del proyecto
