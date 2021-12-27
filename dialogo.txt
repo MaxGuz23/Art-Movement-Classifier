@@ -1,0 +1,88 @@
+Les quiero hacer una pregunta:
+
+¿Cómo clasificarías una pintura?
+
+---------------------------------------------------
+Observen esta obra por ejemplo:
+¿A qué genero o movimiento artístico creen que pertenece?
+---------------------------------------------------
+O esta otra donde el artista plasmó una batalla importante
+¿A qué genero pertenece?
+---------------------------------------------------
+Esta pregunta ha puesto a debatir a tanta gente durante 
+tanto tiempo, ya que no es una pregunta fácil y su respuesta
+es bastante subjetiva.
+
+Por cierto entre estas dos pinturas hay más de 300 años de 
+diferencia
+---------------------------------------------------
+¿Pero cómo podremos diferenciar entre los movimientos o géneros?
+
+Dejando a un lado la época en la que se realizó la obra o el pensamiento 
+y/o sentimiento que quería plasmar el artista, estas tienen 
+sutiles diferencias entre sí
+---------------------------------------------------
+Las renacentistas se caracterizan por sus colores,
+los personajes no miran al espectador,
+son de tonos obscuros y tienen un contenido puramente religioso
+---------------------------------------------------
+o bueno, *tose* casi siempre
+---------------------------------------------------
+El barroco deja atrás el contenido 100 % religioso, mas no las 
+técnicas o las tonalidades
+---------------------------------------------------
+El romanticismo empieza a utilizar nuevas tonalidades, técnicas
+formas y contenidos
+---------------------------------------------------
+Posteriormente nació el impresionismo con tonos claros y sutiles, 
+técnicas muy particulares de pintar.
+---------------------------------------------------
+El expresionismo, por otra parte tiene esos caracteristicos 
+trazos fuertes y contrastantes
+---------------------------------------------------
+El arte abstracto lo caracterizan sus formas sin forma 
+y sus brillantes colores
+---------------------------------------------------
+El realismo trata de volver a lo clásico sin perder las nuevas 
+tonalidades, técnicas y contenidos de la época y tratando de 
+ser fiel a la vida cotidiana
+---------------------------------------------------
+El surrealismo por otra parte, pertenece por completo al mundo de
+los sueños aunque algunos parecen pesadillas 
+---------------------------------------------------
+Y otros géneros son tan característicos de sí que no se necesita
+explicación... porque posiblemente no la tiene
+---------------------------------------------------
+Esta forma de clasificar una obra de arte aún cuando es muy simple,
+nos puede a ayudar a encontrar el tipo de pintura que nos gusta 
+o con el que te puedes identificar.
+Ahora que sabemos como poder identificar algnas obras de arte
+volvemos a la pregunta del inicio, como clasificarías una pintura
+---------------------------------------------------
+Hoy tenemos tecnología capaz de clasificar imágenes
+y me di a la tarea de utilizarla para 
+resolver esta pregunta.
+---------------------------------------------------
+La cual se puede resolver utilizando redes neuronales, 
+
+que no son mas que un montón de 
+sumas y multiplicaciones que maravillosamente pueden clasificar tus 
+preferencias en redes sociales, identificar tumores en radiografías
+hasta predecir si una mujer está embarazada antes de que ella lo sepa.
+---------------------------------------------------
+sin embargo, la tarea no es sencilla
+a parte de todo el procesamiento de las imágenes, 
+entre ellas hay muchas similitudes, como los tonos, 
+las formas, el cotenido e incluso
+el artista. pero todas ellas son de diferentes géneros.
+---------------------------------------------------
+Clasificando en 9 diferentes géneros una persona tiene una probabilidad
+de 1 de 9 o 11.11% de atinarle al género correcto, sin embargo,
+la red que entrené puede decir con 30% de certeza a qué género pertence
+la obra
+---------------------------------------------------
+¿y tu, ya puedes identificar a qué género pertenece la pintura?
+---------------------------------------------------
+¿o te ganan un monton de sumas y multiplicaciones?
+---------------------------------------------------
+Muchas gracias.
