@@ -20,3 +20,7 @@ El proyecto consiste en el diseño de una ANN, así como dos algoritmos de ML, u
 ## Justificación
 
 Hoy en día los algorítmos de clasificación de imágenes tienen una vasta cantidad de aplicaciones en diferentes áreas, sin embargo el principio del algoritmo es el mismo, es por ello que existe un gran interés en poder clasificar imágenes bajo cierto criterio. Asimismo, al aprender sobre algoritmos de clasificación con machine learning me surgió el interés por comprobar su efectividad contra redes neuronales, de las cuales aprendí y utilicé en la maestría para estimar variables en sistemas físicos, pero no para clasificación de imágenes ni con Python.
+
+## Data
+
+https://drive.google.com/drive/folders/1-WDvsx3Dp2dMpuCVIe2At_d6skX6wJ53?usp=sharing
